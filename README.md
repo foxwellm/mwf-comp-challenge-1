@@ -5,16 +5,16 @@ No assets were given. We could not take liberties with the layout, but our creat
 
 Static composition assigned:
 
-![Static Comp](/Images/readme/static-comp-one.png)
+![Static Comp](/images/readme/static-comp-one.png)
 
 My Finished Version:
 
-![Finished Version](/Images/readme/foxwell-static-comp-one.png)
+![Finished Version](/images/readme/foxwell-static-comp-one.png)
 
 Bottom Row Dummy Push Example:
 
-![Finished Version](/Images/readme/bottom-example.png) 
+![Finished Version](/images/readme/bottom-example.png) 
 
 Mobile Version:
 
-![Finished Version](/Images/readme/mobile-version.png) 
+![Finished Version](/images/readme/mobile-version.png) 
